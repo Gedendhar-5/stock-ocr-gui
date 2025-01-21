@@ -16,10 +16,12 @@ This project is a Python-based GUI application that extracts stock information (
   
 - **Stock Validation**: Extracts and filters stocks where volume > float.
 
-  [Stock Screenshot](screenshots/processed_image.png)
+[Stock Screenshot](screenshots/processed_image.png)
 
   
 - **Interactive GUI**: Built with Tkinter for a user-friendly experience.
+
+[Result Screenshot](screenshots/processed_image.png)
 
 ---
 
