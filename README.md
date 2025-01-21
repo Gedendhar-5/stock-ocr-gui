@@ -31,9 +31,9 @@ pip install -r requirements.txt
 - Download and install Tesseract from Tesseract GitHub Page.
 - Update the path in main.py:
   
-pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe".
 
 ### Run the application:
 
-python main.py
+Python main.py
 
