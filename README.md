@@ -22,11 +22,6 @@ This project is a Python-based GUI application that extracts stock information (
 - Python 3.8+
 - Tesseract OCR ([Download from here](https://github.com/tesseract-ocr/tesseract)).
 
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/stock-ocr-gui.git
-   cd stock-ocr-gui
 ### Install dependencies:
 
 pip install -r requirements.txt
