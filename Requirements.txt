@@ -1,3 +1,7 @@
 pytesseract
 pillow
 tkinter
+datetime
+ttk
+PIL
+Image , Image Enchance
