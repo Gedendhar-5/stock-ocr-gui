@@ -21,7 +21,7 @@ This project is a Python-based GUI application that extracts stock information (
   
 - **Interactive GUI**: Built with Tkinter for a user-friendly experience.
 
-[Result Screenshot](Screenshot 2025-01-21 153521.png)
+[Result Screenshot](screenshots/Screenshot 2025-01-21 153521.png)
 
 ---
 
