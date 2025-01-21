@@ -46,3 +46,10 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tess
 
 Python main.py
 
+### Accuracy Graph:
+
+Accuracy Improvement at Each Stage of Processing
+This graph illustrates the progressive improvement in accuracy as each stage of image processing is applied. Starting from Grayscale Conversion, the accuracy increases as the image is enhanced through Contrast Adjustment and Resizing. The final stage, OCR Extraction, achieves the highest accuracy, reflecting the combined benefits of the preprocessing steps.
+
+[Accuracy Graph ](screenshots/processed_image.png)
+
