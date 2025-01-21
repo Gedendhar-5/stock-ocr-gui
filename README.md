@@ -27,6 +27,11 @@ This project is a Python-based GUI application that extracts stock information (
 
 ## Setup Instructions
 
+## How It Works
+1. Upload an image file containing stock data.
+2. The app preprocesses the image and extracts text using Tesseract OCR.
+3. Results are displayed in a table format for easy viewing.
+
 ### Prerequisites
 - Python 3.8+
 - Tesseract OCR ([Download from here](https://github.com/tesseract-ocr/tesseract)).
