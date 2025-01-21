@@ -51,5 +51,5 @@ Python main.py
 Accuracy Improvement at Each Stage of Processing
 This graph illustrates the progressive improvement in accuracy as each stage of image processing is applied. Starting from Grayscale Conversion, the accuracy increases as the image is enhanced through Contrast Adjustment and Resizing. The final stage, OCR Extraction, achieves the highest accuracy, reflecting the combined benefits of the preprocessing steps.
 
-![Accuracy Graph ](output.png)
+![Accuracy Graph](screenshots/output.png)
 
