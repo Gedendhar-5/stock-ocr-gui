@@ -10,7 +10,7 @@ This project is a Python-based GUI application that extracts stock information (
 ---
 
 ## Features
-- **Image Preprocessing**: Converts images to grayscale, enhances contrast, and sharpens details for improved OCR performance.
+- **Image Preprocessing**: Converts images to grayscale, enhances contrast, and sharpens details for improved OCR performance.(screenshots/)
 - **Stock Validation**: Extracts and filters stocks where volume > float.
 - **Interactive GUI**: Built with Tkinter for a user-friendly experience.
 
